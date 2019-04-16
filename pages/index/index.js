@@ -50,5 +50,8 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+  showTrue:function(){
+  	console.log(123)
   }
 })
